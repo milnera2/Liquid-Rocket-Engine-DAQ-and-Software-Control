@@ -1,0 +1,30 @@
+## [ OUTPUTS ]
+- SVs - {1: 5V, 0: 0V}
+    -  FIO0
+    - FIO1
+    - FIO2
+    - FIO3
+- E-Match - {1: 5V, 0: 0V}
+    - FIO4
+## [ INPUTS ]
+- PTs - {0~5V in}
+    - AIN0
+    - AIN2
+    - AIN3
+    - AIN4
+- LCs - Through LJTIC-inamp - {0-2.5V in}***
+    - InAmp 0
+        - VS
+        - GND
+        - AIN8
+        - AIN9
+    - InAmp 1
+        - VS
+        - GND
+        - AIN10
+        - AIN11
+    - InAmp 2
+        - VS
+        - GND
+        - AIN12
+        - AIN13
